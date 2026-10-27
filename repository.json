@@ -1,0 +1,16 @@
+{
+  "name": "NDT-Proxy-Providers-List",
+  "description": "Direct-link proxy provider directory with residential, ISP, datacenter and mobile pricing, purchase conditions and cost analysis.",
+  "topics": [
+    "proxy",
+    "proxy-providers",
+    "residential-proxies",
+    "datacenter-proxies",
+    "mobile-proxies",
+    "socks5",
+    "proxy-comparison",
+    "awesome-list",
+    "vietnamese"
+  ],
+  "private": false
+}
