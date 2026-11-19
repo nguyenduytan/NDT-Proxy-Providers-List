@@ -57,6 +57,7 @@ HTTP(S), SOCKS5 and UDP describe protocols; they do not prove the source IP is r
 | [SOAX](https://soax.com/pricing) | Sandbox $5/$4/$2 per GB by geo tier; Builder $200/month | Tier 1 Builder shows $3/GB plus included credits | Powerful targeting, meaningful monthly minimum |
 | [Oxylabs](https://oxylabs.io/pricing) | $6/GB small tier; $2.50/GB at 1K+ GB | Product access is tied to subscription credits | Premium managed option, expensive for tiny tests |
 | [Rayobyte](https://rayobyte.com/) | Premium from $0.50/GB; Scale advertises $0.0095/GB | Scale rate is volume-oriented | Do not compare Scale and Premium as the same product |
+| [ProxiesFood](https://proxiesfood.com/residential-proxies) | 25 GB $12.49; 1 TB $299.99; 10 TB $1,999.99 ($0.20/GB) | GB valid 30 days; prepaid in crypto | Unlimited-bandwidth plans are a separate product priced by speed: 100 Mbps $14.99/day, $174.99/30 days |
 
 ### Additional residential pricing notes
 
@@ -78,6 +79,7 @@ HTTP(S), SOCKS5 and UDP describe protocols; they do not prove the source IP is r
 | [ProxyEmpire](https://proxyempire.io/pricing/) | From $0.35/GB | From $2/IP | From $2/GB; dedicated from $20/day |
 | [Rayobyte](https://rayobyte.com/) | From $0.008/GB at scale | Static ISP from $0.95/IP/month | From $0.95/GB |
 | [Oxylabs](https://oxylabs.io/pricing) | From $0.40/GB at volume | ISP from $1.10/IP at volume | $7.50/GB small tier; $3.50/GB at volume |
+| [ProxiesFood](https://proxiesfood.com/datacenter-proxies) | Unlimited GB priced by threads: 1,000 threads $6.99/day, $104.99/30 days | — | — |
 
 ### Package conditions worth checking
 
@@ -128,6 +130,7 @@ The following providers are useful research candidates. Presence in this table i
 | NstProxy | [nstproxy.com](https://www.nstproxy.com/) | Confirm IPv4/IPv6 and plan |
 | OkeyProxy | [okeyproxy.com](https://www.okeyproxy.com/) | Verify minimum order |
 | PapaProxy | [papaproxy.net](https://papaproxy.net/) | Confirm country and IP type |
+| ProxiesFood | [proxiesfood.com](https://proxiesfood.com/) | Pricing above (reviewed 2026-11-19); unlimited residential billed by speed per day |
 | Proxy.market | [proxy.market](https://proxy.market/) | Confirm country and rental period |
 | Proxy-store | [proxy-store.com](https://proxy-store.com/) | Distinguish shared/private |
 | Proxymus | [proxymus.net](https://proxymus.net/) | Verify current pricing |
